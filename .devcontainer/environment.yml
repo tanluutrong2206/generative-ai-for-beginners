@@ -1,0 +1,7 @@
+name: ai4beg
+channels:
+  - defaults
+dependencies:
+  - python=3.9
+  - openai
+  - python-dotenv
